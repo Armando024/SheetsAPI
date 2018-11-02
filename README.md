@@ -27,4 +27,4 @@
 # Deployment
     For deployment I set up a environment in CentOs 7 using Nginx for webserver in front of Node.js 
     The only differences between the dev environment and deployment environment is the path names
-
+    As well i created a second route to deliver the build of react
